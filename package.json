@@ -3,9 +3,6 @@
   "description": "Offline(local) AI CLI OpenAI Provider",
   "version": "0.1.2",
   "author": "Riceball LEE <snowyu.lee@gmail.com>",
-  "bin": {
-    "ai": "./bin/run.js"
-  },
   "homepage": "https://github.com/offline-ai/cli-plugin-provider-openai.js",
   "repository": "https://github.com/offline-ai/cli-plugin-provider-openai.js",
   "bugs": "https://github.com/@offline-ai/cli-plugin-provider-openai.js/issues",
