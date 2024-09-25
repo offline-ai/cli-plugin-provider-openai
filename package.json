@@ -64,10 +64,7 @@
     "dirname": "ai",
     "hooks": {
       "init": "./dist/oclif/hooks/init"
-    },
-    "plugins": [
-      "@offline-ai/cli-plugin-core"
-    ]
+    }
   },
   "scripts": {
     "build": "shx rm -rf dist && tsup",
