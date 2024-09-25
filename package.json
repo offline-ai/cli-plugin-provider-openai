@@ -1,7 +1,7 @@
 {
   "name": "@offline-ai/cli-plugin-provider-openai",
   "description": "Offline(local) AI CLI OpenAI Provider",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "author": "Riceball LEE <snowyu.lee@gmail.com>",
   "homepage": "https://github.com/offline-ai/cli-plugin-provider-openai.js",
   "repository": "https://github.com/offline-ai/cli-plugin-provider-openai.js",
